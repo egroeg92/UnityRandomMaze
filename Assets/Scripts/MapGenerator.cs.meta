@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cdbe1429a35857647a51fd7323d60ceb
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - room: {fileID: 100016, guid: ff2c7da7ebf93b84ebaa8c0e97ec61f3, type: 2}
+  - walls: {fileID: 100000, guid: 79c97aca7b4549f4e97fd85cee128439, type: 2}
+  - walls_a: {fileID: 100008, guid: f51bd11257142f84694de49116f17380, type: 2}
+  - walls_b: {fileID: 100008, guid: 95af7aeae65ae6f48b77c85d7e6c3b56, type: 2}
+  - walls_c: {fileID: 100008, guid: d0d084e8e94cee141a8a306ecdb9cb18, type: 2}
+  - tunnels: {fileID: 100118, guid: 9237b2bcfcf24f148b6ae01735303ae3, type: 2}
+  - pickUp_a: {fileID: 100000, guid: d75cc2dec85491842a97d13494936f10, type: 2}
+  - pickUp_b: {fileID: 100000, guid: d0d644e5ad5d10b47afe509c96cce9e9, type: 2}
+  - pickUp_c: {fileID: 100000, guid: 5ce324664a28d3c47a65f29520ffbb40, type: 2}
+  - player: {fileID: 100002, guid: 30c15cc0b7a82484c8c3569dd2654d37, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
